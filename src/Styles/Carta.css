@@ -1,0 +1,15 @@
+.FrontCard {
+    height: 175px;
+    width: 175px;
+    background-color: darkred;
+    margin: 10px;
+}
+
+.BackCard {
+    height: 175px;
+    width: 175px;
+    background-color: rgb(207, 252, 82);
+    text-align: center;
+    margin: 10px;
+    font-size: 120px;
+}
